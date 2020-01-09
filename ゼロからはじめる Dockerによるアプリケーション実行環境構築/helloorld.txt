@@ -1,0 +1,6 @@
+docker run hello-world
+
+
+docker pull
+docker create
+docker start
